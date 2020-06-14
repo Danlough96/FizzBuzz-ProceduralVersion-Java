@@ -19,11 +19,10 @@ public class fizzBuzz {
 				System.out.println("Fizz");
 			}
 			
-			
-			
 			else {
 				System.out.println(i);
 			}
+			System.out.println("Fiz/Buzz Completed!");
 		}
 		
 		
